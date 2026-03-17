@@ -5,9 +5,6 @@
 [submodule "ctsfeatures"]
 	path = ctsfeatures
 	url = https://github.com/cran/ctsfeatures
-[submodule "mlmts"]
-	path = mlmts
-	url = https://github.com/cran/mlmts
 [submodule "otsfeatures"]
 	path = otsfeatures
 	url = https://github.com/cran/otsfeatures
